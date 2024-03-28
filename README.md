@@ -1,6 +1,5 @@
 # Driver-Drowsiness-Detector
 
----
 
 **Description:**
 
